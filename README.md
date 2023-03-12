@@ -2,7 +2,7 @@
 
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-[Link to my Portfolio](https://devarsh2395.github.io/portfolio/)
+[Link to my Portfolio](https://devarsh2395.github.io/Devarsh-Patel-s-Portfolio/)
 
 ## Description
 
